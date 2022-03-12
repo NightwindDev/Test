@@ -22,4 +22,4 @@ Screenshots: https://broank.bss.design/assets/img/HSCmasknonotch.png?h=7e85bb346
 
 Banner: https://broank.bss.design/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7
 
-[END]
+[End]
