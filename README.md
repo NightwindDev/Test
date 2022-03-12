@@ -1,4 +1,4 @@
-# [Shortcut]
+[Shortcut]
 
 Name: Homescreen Creator
 
