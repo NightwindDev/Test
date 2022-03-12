@@ -12,7 +12,7 @@ Author: Broank
 
 Repo: Broank's Repo
 
-Author Icon: https://pbs.twimg.com/profile_images/1185962401302306817/ThHvonsw_400x400.jpg
+Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4
 
 Shortcut Icon: https://pbs.twimg.com/media/Edw_m9XXkAMhkjr?format=jpg&name=medium
 
