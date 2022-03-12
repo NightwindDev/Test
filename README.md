@@ -4,6 +4,10 @@ Name: Homescreen Creator
 
 Description: An awesome enhancement to your homescreen!
 
+Long Description: A great tweak made by Broank do customize your homescreen to its full potential without being jailbroken!
+
+Compatibility: iOS 14.0 to 15.3.1
+
 Author: Broank
 
 Repo: Broank's Repo
