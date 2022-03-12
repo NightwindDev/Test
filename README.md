@@ -16,7 +16,7 @@ Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4
 
 Shortcut Icon: https://pbs.twimg.com/media/Edw_m9XXkAMhkjr?format=jpg&name=medium
 
-Download: workflow://shortcuts/a262d1133e294ed68ee1425b815d5dfe
+Download: https://www.icloud.com/shortcuts/a262d1133e294ed68ee1425b815d5dfe
 
 Screenshots: https://broank.bss.design/assets/img/HSCmasknonotch.png, https://broank.bss.design/assets/img/HSCmaskcard.png, https://broank.bss.design/assets/img/HSCmaskcarddock.png
 
