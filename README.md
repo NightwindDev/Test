@@ -26,17 +26,17 @@ Banner: https://broank.bss.design/assets/img/shortcutsHSC.png
 
 [Shortcut]
 
-Name: Homescreen Creator
+Name: test
 
-Description: An awesome enhancement to your homescreen!
+Description: test
 
-Long Description: A great tweak made by Broank do customize your homescreen to its full potential without being jailbroken!
+Long Description: test
 
-Compatibility: iOS 14.0 to iOS 15.3.1
+Compatibility: iOS 14.5 to iOS 15.0
 
-Author: Broank
+Author: test
 
-Repo: Broank's Repo
+Repo: test
 
 Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4
 
