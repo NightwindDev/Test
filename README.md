@@ -22,6 +22,8 @@ Screenshots: https://broank.bss.design/assets/img/HSCmasknonotch.png, https://br
 
 Banner: https://broank.bss.design/assets/img/shortcutsHSC.png
 
+Version: 1.0
+
 [End]
 
 [Shortcut]
@@ -47,5 +49,7 @@ Download: https://www.icloud.com/shortcuts/a262d1133e294ed68ee1425b815d5dfe
 Screenshots: https://broank.bss.design/assets/img/HSCmasknonotch.png, https://broank.bss.design/assets/img/HSCmaskcard.png, https://broank.bss.design/assets/img/HSCmaskcarddock.png
 
 Banner: https://broank.bss.design/assets/img/shortcutsHSC.png
+
+Version: 1.5
 
 [End]
