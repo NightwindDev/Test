@@ -12,9 +12,9 @@ Author: Broank
 
 Repo: Broank's Repo
 
-Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4
+Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4.png
 
-Shortcut Icon: https://avatars.githubusercontent.com/u/81449663?v=4
+Shortcut Icon: https://avatars.githubusercontent.com/u/81449663?v=4.png
 
 Download: https://www.icloud.com/shortcuts/a262d1133e294ed68ee1425b815d5dfe
 
