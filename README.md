@@ -12,7 +12,7 @@ Author: Broank
 
 Repo: Broank's Repo
 
-Author Icon: https://avatars.githubusercontent.com/u/81449663?v=4.png
+Author Icon: https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128
 
 Shortcut Icon: https://avatars.githubusercontent.com/u/81449663?v=4.png
 
