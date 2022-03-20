@@ -1,6 +1,6 @@
 [Shortcut]
 
-Name: Homescreen\n Creator
+Name: Homescreen Creator
 
 Description: An awesome enhancement to your homescreen!
 
