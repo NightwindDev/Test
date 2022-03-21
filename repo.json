@@ -10,11 +10,11 @@
             "15.0",
             "15.4"
         ],
-        "icons" : [
+        "icons" : {
             "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
             "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
             "banner": "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
-        ],
+        },
         "screenshots" : [
             "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
         ]
@@ -30,11 +30,11 @@
             "14.3",
             "15.4"
         ],
-        "icons" : [
+        "icons" : {
             "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
             "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
             "banner": "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
-        ],
+        },
         "screenshots" : [
             "https://broank.bss.design/assets/img/shortcutsClassicaLS.png?h=8bec2099d0595ec7482991cae939d665"
         ]
@@ -50,11 +50,11 @@
             "14.0",
             "15.4"
         ],
-        "icons" : [
+        "icons" : {
             "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
             "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
             "banner": "https://pbs.twimg.com/media/FKQXkUQWYAAsa9j?format=jpg&name=large"
-        ],
+        },
         "screenshots" : [
             "https://broank.bss.design/assets/img/HSCmasknonotch.png",
             "https://broank.bss.design/assets/img/HSCmaskcard.png",
@@ -72,11 +72,11 @@
             "15.0",
             "15.4"
         ],
-        "icons" : [
+        "icons" : {
             "shortcut": "https://i.pinimg.com/originals/27/5f/3e/275f3e0c0d7bad02ec08836a14ead214.jpg",
             "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
             "banner": "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
-        ],
+        },
         "screenshots" : [
             "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
         ]
@@ -92,11 +92,11 @@
             "15.1",
             "15.4"
         ],
-        "icons" : [
+        "icons" : {
             "shortcut": "https://broank.bss.design/assets/img/WetrIcon2.png?h=edcf9b3c019c03aaea38e5eeefb21edf",
             "author": "https://cdn.discordapp.com/avatars/164046893528121345/f576f06468b49488e66f02dd69263fe5.webp?size=128",
             "banner": "https://broank.bss.design/assets/img/1.jpg?h=bb41c89c1577a18bbb393b6cae211d34"
-        ],
+        },
         "screenshots" : [
             "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
         ]
