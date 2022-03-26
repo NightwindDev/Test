@@ -84,10 +84,10 @@
         "screenshots" : [
             "https://broank.bss.design/assets/img/shortcutsVertiblur.png?h=cb202c508dc652aca84c32cd8e706682"
         ],
-        "olderVersions": [
+        "olderVersions": {
             "0.2": "https://icloud.com/shortcuts/18394fuirg87456t7f7e8g98",
             "0.0.1": "https://icloud.com/shortcuts/uefjvd8ve7717348heve354556"
-        ]
+        }
     },
     {
         "name": "Wetr",
