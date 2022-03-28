@@ -1,6 +1,6 @@
 [
      {
-        "name": "ClassicalLS",
+        "name": "ClassicaLS",
         "author": "Broank",
         "version": "1.0",  
         "description": "Make your Lockscreen nostalgic!",
@@ -24,7 +24,7 @@
         }
     },
     {
-        "name": "ClassicalLS (Legacy)",
+        "name": "ClassicaLS (Legacy)",
         "author": "Broank",
         "version": "1.0",  
         "description": "(FOR iOS 14) Make your Lockscreen nostalgic!",
