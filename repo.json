@@ -1,10 +1,10 @@
 [
      {
-        "name": "ClassicaLS",
+        "name": "ClassicLS",
         "author": "Broank",
         "version": "1.0",  
         "description": "Make your Lockscreen nostalgic!",
-        "longDescription": "A great shortcut made by Broank to customize your lockscreen to look like the iOS 6 one.",
+        "longDescription": "https://broank.bss.design/ClassicLS.html",
         "download": "https://www.icloud.com/shortcuts/7224c650724d48548ec40133e60f924c",
         "compatibility": [
             "15.0",
@@ -28,7 +28,7 @@
         "author": "Broank",
         "version": "1.0",  
         "description": "(FOR iOS 14) Make your Lockscreen nostalgic!",
-        "longDescription": "(FOR iOS 14) A great shortcut made by Broank to customize your lockscreen to look like the iOS 6 one.",
+        "longDescription": "https://broank.bss.design/ClassicLS.html",
         "download": "https://www.icloud.com/shortcuts/51a8c49b73ab48d5a916db4c244ab1d4",
         "compatibility": [
             "14.3",
@@ -70,7 +70,7 @@
         "author": "Broank",
         "version": "1.0",  
         "description": "Blur half of your homescreen!",
-        "longDescription": "A great shortcut by Broank adding the neat effect of a blur on one half of the homescreen!",
+        "longDescription": "https://broank.bss.design/Shortcuts.html#vb",
         "download": "https://www.icloud.com/shortcuts/d17f4584ba9d4318bdf05db39eb14b78",
         "compatibility": [
             "15.0",
@@ -94,7 +94,7 @@
         "author": "Broank",
         "version": "1.0",  
         "description": "The weather inside is beautiful.",
-        "longDescription": "Weather at the bottom of your lockscreen!",
+        "longDescription": "https://broank.bss.design/Wetr.html",
         "download": "https://www.icloud.com/shortcuts/6b911149f7004157b23bef7bd70b3cbd",
         "compatibility": [
             "15.1",
